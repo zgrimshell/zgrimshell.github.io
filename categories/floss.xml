@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>i.am.z.grim.shell (floss)</title><link>https://zgrimshell.github.io/</link><description></description><atom:link href="https://zgrimshell.github.io/categories/floss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 28 Aug 2015 15:06:43 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Interviews with FLOSS developers: Francesca Ciceri</title><link>https://zgrimshell.github.io/posts/interviews-with-floss-developers-francesca-ciceri.html</link><dc:creator>Zlatan Todoric</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;Debian and FLOSS community don't only occupy coding developers. They occupy
+people who write news, who talk about FLOSS, who help on booths and
+conferences, who create artistic forms of the community and so many others
+that contribute in countless ways. A lady, that is doing many of that is
+Francesca Ciceri, known in Debian as MadameZou. She is non-packaging Debian
+Developer, a fearless warrior for diversity and a zombie fan. Although it
+sounds intimidating, she is deep caring and great human being. So, what has
+MadaZou to tell us?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://zgrimshell.github.io/posts/interviews-with-floss-developers-francesca-ciceri.html"&gt;Read more…&lt;/a&gt; (11 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>debian</category><category>floss</category><category>geek</category><category>zou</category><guid>https://zgrimshell.github.io/posts/interviews-with-floss-developers-francesca-ciceri.html</guid><pubDate>Tue, 31 Mar 2015 19:20:58 GMT</pubDate></item><item><title>Random bits</title><link>https://zgrimshell.github.io/posts/random-bits.html</link><dc:creator>Zlatan Todoric</dc:creator><description>&lt;div&gt;&lt;h5&gt;Gogs&lt;/h5&gt;
+&lt;p&gt;I installed today &lt;a href="https://github.com/gogits/gogs"&gt;Gogs&lt;/a&gt; and configured it
+with mysql (yes, yes, I know - use postgres you punk!). I will not post
+details of how I did it because:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It still has "weird" coding as pointed already by others&lt;/li&gt;
+&lt;li&gt;It doesn't have fork and pull request ability yet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And there was end of journey. When they code in fork/PR , I will close my eyes
+on other coding stuff and try it again because Gitlab is not close to my heart
+and installing their binary takes ~850MB of space which means a lot of ruby
+code that could go wrong way.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://zgrimshell.github.io/posts/random-bits.html"&gt;Read more…&lt;/a&gt; (4 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>bits</category><category>debian</category><category>floss</category><guid>https://zgrimshell.github.io/posts/random-bits.html</guid><pubDate>Thu, 26 Mar 2015 19:18:03 GMT</pubDate></item><item><title>Interviews with FLOSS developers: Laura Arjona</title><link>https://zgrimshell.github.io/posts/interviews-with-floss-developers-laura-arjona.html</link><dc:creator>Zlatan Todoric</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;One of fresh additions to Debian, that is showing Debian's commitment to
+diversity in all fields is Laura Arjona Reina. A helpful hand on channels and
+a great flux of FLOSS energy she brings with herself. Although applied for
+non-packaging Debian Developer status, Laura does recognize that there are
+still some technical aspects what must grasp on. Her dedication to FLOSS and
+trying to solve some of its issues is astonishing, as this woman is doing a
+lot of self-hosting and system administration. Yes, you read it right - she
+does all of that and still applied for non-packaging Debian Developer. She is
+perfect example how FLOSS enhances humans in many ways. Hello Laura.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://zgrimshell.github.io/posts/interviews-with-floss-developers-laura-arjona.html"&gt;Read more…&lt;/a&gt; (10 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>debian</category><category>floss</category><category>larjona</category><guid>https://zgrimshell.github.io/posts/interviews-with-floss-developers-laura-arjona.html</guid><pubDate>Fri, 20 Mar 2015 19:35:36 GMT</pubDate></item><item><title>Interviews with FLOSS developers: Paul Wise</title><link>https://zgrimshell.github.io/posts/interviews-with-floss-developers-paul-wise.html</link><dc:creator>Zlatan Todoric</dc:creator><description>&lt;div&gt;&lt;p&gt;After starting with &lt;a href="https://zgrimshell.github.io/interviews-with-%0Afloss-developers-joey-hess/"&gt;Joey Hess&lt;/a&gt;, we continue with Paul Wise. What makes his star
+to shine are many things such as being a DSA (Debian System Administrator), a
+helpful hand on mailings list, encouraging people to join Debian teams but
+most of all - he has encyclopedia knowledge on Debian as a whole which he
+gladly shares with anyone who asks (very fast response on IRC channels). It is
+almost impossible for any single person to count all Debian teams, work and
+places - to know most of those things, you can image the vast knowledge which
+Paul has. The legend says that his brain has better and faster search engine
+algorithm on Debian related queries than all other engines combined. So lets
+see what he has to share with world.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://zgrimshell.github.io/posts/interviews-with-floss-developers-paul-wise.html"&gt;Read more…&lt;/a&gt; (10 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>debian</category><category>floss</category><category>interviews</category><category>pabs</category><guid>https://zgrimshell.github.io/posts/interviews-with-floss-developers-paul-wise.html</guid><pubDate>Tue, 03 Mar 2015 22:37:55 GMT</pubDate></item><item><title>Interviews with FLOSS developers: Joey Hess</title><link>https://zgrimshell.github.io/posts/interviews-with-floss-developers-joey-hess.html</link><dc:creator>Zlatan Todoric</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;Edit: Now translated to &lt;a href="http://www.labazhou.net/2015/03/interviews-%0Awith-floss-developers-joey-hess/"&gt;Chinese&lt;/a&gt;. Thanks zhang wei!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There is really hardly a better way to open a series of interviewing with
+developers behind Free Libre Open Source Software project, then with
+incredible mind such as Joey Hess. To write his contributions to Free software
+ecosystem, especially in Debian, would be a book by itself. His impact exceeds
+even his projects - people literally follow his blog posts to see what he is
+doing and how is he living. A hacker from cabin. If you really need to have a
+picture of true hacker, then Joey is the one. As this isn't a book I will just
+mention few projects that he has been behind - git-annex, ikiwiki, etckeeper,
+debian installer, parts of dpkg, debhelper, devscripts, taskel. So without
+further waiting here it is.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://zgrimshell.github.io/posts/interviews-with-floss-developers-joey-hess.html"&gt;Read more…&lt;/a&gt; (6 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>debian</category><category>floss</category><category>hacker</category><category>joeyh</category><guid>https://zgrimshell.github.io/posts/interviews-with-floss-developers-joey-hess.html</guid><pubDate>Sat, 28 Feb 2015 19:27:17 GMT</pubDate></item><item><title>Nightmare</title><link>https://zgrimshell.github.io/posts/nightmare.html</link><dc:creator>Zlatan Todoric</dc:creator><description>&lt;p&gt;I had last night a dream. It was really bad - systemd took over the Linux
+ecosystem, distributions became very similar and after some time every piece
+of Free software gathered all their contributors in one place and they decided
+to create one superb GNU/Linux OS with a manpower of all FLOSS contributors.
+So now Google, Apple, Microsoft and all other parties that try to centralize
+their power in world had an adversary of millions hackers forking ideas of
+their software and creating by a magnitude better FLOSS equivalents and give
+power to people. When I woke up I did a fsck do Google, Apple, Microsoft and
+other parties exist still at all. All good - the world is same as it was
+yesterday, people don't have the power (thanks to jobs)...&lt;/p&gt;</description><category>floss</category><category>hackers</category><category>systemd</category><guid>https://zgrimshell.github.io/posts/nightmare.html</guid><pubDate>Fri, 30 Jan 2015 19:57:35 GMT</pubDate></item></channel></rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>i.am.z.grim.shell (journey)</title><link>https://zgrimshell.github.io/</link><description></description><atom:link href="https://zgrimshell.github.io/categories/journey.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 28 Aug 2015 15:06:44 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>My journey into Debian</title><link>https://zgrimshell.github.io/posts/my-journey-into-debian.html</link><dc:creator>Zlatan Todoric</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Notice&lt;/strong&gt;: There were several requests for me to more elaborate on my path to Debian and impact on life so here it is. It's going to be a bit long so anyone who isn't interested in my personal Debian journey should skip it. :)&lt;/p&gt;
+&lt;p&gt;In 2007. I enrolled into Faculty of Mechanical Engineering (at first at
+Department of Industrial Management and later transfered to Department of
+Mechatronics - this was possible because first 3 semesters are same for both
+departments). By the end of same year I was finishing my tasks (consisting
+primarily of calculations, some small graphical designs and write-ups) when
+famous virus, called by users "RECYCLER", sent my Windows XP machine into
+oblivion. Not only it took control over machine and just spawned so many
+processes that system would crash itself, it actually deleted all from hard-
+disk before it killed the system entirely. I raged - my month old work, full
+of precise calculations and a lot of design details, was just gone. I started
+cursing which was always continued with weeping: "Why isn't there an OS that
+can whithstand all of viruses, even if it looks like old DOS!". At that time,
+my roommate was my cousin who had used Kubuntu in past and currently was
+having SUSE dual-booted on his laptop. He called me over, started talking
+about this thing called Linux and how it's different but de facto has no
+viruses. Well, show me this Linux and my thought was, it's probably so ancient
+and not used that it probably looks like from pre Windows 3.1 era, but when
+SUSE booted up it had so much more beautiful UI look (it was KDE, and compared
+to XP it looked like the most professional OS ever).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://zgrimshell.github.io/posts/my-journey-into-debian.html"&gt;Read more…&lt;/a&gt; (6 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>debian</category><category>journey</category><category>life</category><guid>https://zgrimshell.github.io/posts/my-journey-into-debian.html</guid><pubDate>Fri, 20 Mar 2015 20:09:46 GMT</pubDate></item></channel></rss>

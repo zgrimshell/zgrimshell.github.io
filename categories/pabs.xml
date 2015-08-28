@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>i.am.z.grim.shell (pabs)</title><link>https://zgrimshell.github.io/</link><description></description><atom:link href="https://zgrimshell.github.io/categories/pabs.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 28 Aug 2015 15:06:45 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Interviews with FLOSS developers: Paul Wise</title><link>https://zgrimshell.github.io/posts/interviews-with-floss-developers-paul-wise.html</link><dc:creator>Zlatan Todoric</dc:creator><description>&lt;div&gt;&lt;p&gt;After starting with &lt;a href="https://zgrimshell.github.io/interviews-with-%0Afloss-developers-joey-hess/"&gt;Joey Hess&lt;/a&gt;, we continue with Paul Wise. What makes his star
+to shine are many things such as being a DSA (Debian System Administrator), a
+helpful hand on mailings list, encouraging people to join Debian teams but
+most of all - he has encyclopedia knowledge on Debian as a whole which he
+gladly shares with anyone who asks (very fast response on IRC channels). It is
+almost impossible for any single person to count all Debian teams, work and
+places - to know most of those things, you can image the vast knowledge which
+Paul has. The legend says that his brain has better and faster search engine
+algorithm on Debian related queries than all other engines combined. So lets
+see what he has to share with world.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://zgrimshell.github.io/posts/interviews-with-floss-developers-paul-wise.html"&gt;Read more…&lt;/a&gt; (10 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>debian</category><category>floss</category><category>interviews</category><category>pabs</category><guid>https://zgrimshell.github.io/posts/interviews-with-floss-developers-paul-wise.html</guid><pubDate>Tue, 03 Mar 2015 22:37:55 GMT</pubDate></item></channel></rss>

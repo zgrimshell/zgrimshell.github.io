@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>i.am.z.grim.shell (hackers)</title><link>https://zgrimshell.github.io/</link><description></description><atom:link href="https://zgrimshell.github.io/categories/hackers.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 28 Aug 2015 15:06:43 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Nightmare</title><link>https://zgrimshell.github.io/posts/nightmare.html</link><dc:creator>Zlatan Todoric</dc:creator><description>&lt;p&gt;I had last night a dream. It was really bad - systemd took over the Linux
+ecosystem, distributions became very similar and after some time every piece
+of Free software gathered all their contributors in one place and they decided
+to create one superb GNU/Linux OS with a manpower of all FLOSS contributors.
+So now Google, Apple, Microsoft and all other parties that try to centralize
+their power in world had an adversary of millions hackers forking ideas of
+their software and creating by a magnitude better FLOSS equivalents and give
+power to people. When I woke up I did a fsck do Google, Apple, Microsoft and
+other parties exist still at all. All good - the world is same as it was
+yesterday, people don't have the power (thanks to jobs)...&lt;/p&gt;</description><category>floss</category><category>hackers</category><category>systemd</category><guid>https://zgrimshell.github.io/posts/nightmare.html</guid><pubDate>Fri, 30 Jan 2015 19:57:35 GMT</pubDate></item></channel></rss>

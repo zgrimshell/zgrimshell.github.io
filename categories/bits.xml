@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>i.am.z.grim.shell (bits)</title><link>https://zgrimshell.github.io/</link><description></description><atom:link href="https://zgrimshell.github.io/categories/bits.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 28 Aug 2015 15:06:44 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Random bits</title><link>https://zgrimshell.github.io/posts/random-bits.html</link><dc:creator>Zlatan Todoric</dc:creator><description>&lt;div&gt;&lt;h5&gt;Gogs&lt;/h5&gt;
+&lt;p&gt;I installed today &lt;a href="https://github.com/gogits/gogs"&gt;Gogs&lt;/a&gt; and configured it
+with mysql (yes, yes, I know - use postgres you punk!). I will not post
+details of how I did it because:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It still has "weird" coding as pointed already by others&lt;/li&gt;
+&lt;li&gt;It doesn't have fork and pull request ability yet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And there was end of journey. When they code in fork/PR , I will close my eyes
+on other coding stuff and try it again because Gitlab is not close to my heart
+and installing their binary takes ~850MB of space which means a lot of ruby
+code that could go wrong way.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://zgrimshell.github.io/posts/random-bits.html"&gt;Read more…&lt;/a&gt; (4 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>bits</category><category>debian</category><category>floss</category><guid>https://zgrimshell.github.io/posts/random-bits.html</guid><pubDate>Thu, 26 Mar 2015 19:18:03 GMT</pubDate></item></channel></rss>
