@@ -101,11 +101,11 @@ all images so make your own and copy there this script):</p>
 11</pre></div></td>
 <td class="code">
 <pre class="code literal-block"><span class="c">#!/bin/bash</span>
-<span class="k">for</span> i in seq <span class="sb">`</span><span class="m">1</span> 1453<span class="sb">`</span>
+<span class="k">for </span>i in seq <span class="sb">`</span>1 1453<span class="sb">`</span>
 <span class="k">do</span>
 wget http://xkcd.com/<span class="nv">$i</span>/
-wget <span class="sb">`</span>grep http://imgs.xkcd.com/comics/ index.html <span class="p">|</span> head -1 <span class="p">|</span> cut -    d<span class="se">\"</span> -f2<span class="sb">`</span>
-convert -append <span class="k">$(</span>ls -t <span class="p">|</span> tail -n 1<span class="k">)</span> <span class="nv">$i</span>.jpg <span class="nv">$i</span>.png
+wget <span class="sb">`</span>grep http://imgs.xkcd.com/comics/ index.html | head -1 | cut -    d<span class="se">\"</span> -f2<span class="sb">`</span>
+convert -append <span class="k">$(</span>ls -t | tail -n 1<span class="k">)</span> <span class="nv">$i</span>.jpg <span class="nv">$i</span>.png
 rm index.html
 rm *.jpg
 rm *.png
