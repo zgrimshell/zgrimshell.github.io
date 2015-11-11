@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-Now wow. BUT WOW WOW WOW!
+Not wow. BUT WOW WOW WOW!
 
 This [story](http://theoatmeal.com/comics/plane) just blown my mind.
 
