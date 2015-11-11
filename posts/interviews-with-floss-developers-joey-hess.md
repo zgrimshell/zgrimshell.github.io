@@ -2,7 +2,7 @@
 .. title: Interviews with FLOSS developers: Joey Hess
 .. slug: interviews-with-floss-developers-joey-hess
 .. date: 2015-02-28 21:27:17 UTC+02:00
-.. tags: joeyh, debian, floss, hacker
+.. tags: joeyh, debian, floss, hacker, interviews
 .. link: 
 .. description: 
 .. type: text

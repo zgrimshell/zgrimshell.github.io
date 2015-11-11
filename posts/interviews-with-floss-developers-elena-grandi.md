@@ -2,7 +2,7 @@
 .. title: Interviews with FLOSS developers: Elena Grandi
 .. slug: interviews-with-floss-developers-elena-grandi
 .. date: 2015-08-29 16:23:44 UTC+02:00
-.. tags: 
+.. tags: debian, floss, hackers, interviews
 .. category: 
 .. link: 
 .. description: 

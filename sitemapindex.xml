@@ -35,7 +35,7 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/debian.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/encryption.xml</loc>
@@ -47,7 +47,7 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/floss.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/freedom.xml</loc>
@@ -59,7 +59,7 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/geek.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/git.xml</loc>
@@ -67,11 +67,11 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/hacker.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/hackers.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/hell.xml</loc>
@@ -82,16 +82,20 @@
   <lastmod>2015-10-08T16:25:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://zgrimshell.github.io/categories/human.xml</loc>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://zgrimshell.github.io/categories/iceland.xml</loc>
   <lastmod>2015-10-08T16:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/interviews.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/joeyh.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/journey.xml</loc>
@@ -99,7 +103,7 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/larjona.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/learn.xml</loc>
@@ -107,7 +111,7 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/life.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/lines.xml</loc>
@@ -194,6 +198,10 @@
   <lastmod>2015-10-08T16:25:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://zgrimshell.github.io/categories/universe.xml</loc>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://zgrimshell.github.io/categories/useless.xml</loc>
   <lastmod>2015-10-08T16:25:00Z</lastmod>
  </sitemap>
@@ -207,22 +215,22 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/xkcd.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/zou.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/galleries/rss.xml</loc>
-  <lastmod>2015-08-28T15:06:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/rss.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/sitemap.xml</loc>
-  <lastmod>2015-10-08T16:25:00Z</lastmod>
+  <lastmod>2015-11-11T19:51:00Z</lastmod>
  </sitemap>
 </sitemapindex>

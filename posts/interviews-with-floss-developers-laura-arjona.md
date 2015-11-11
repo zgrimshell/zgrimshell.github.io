@@ -2,7 +2,7 @@
 .. title: Interviews with FLOSS developers: Laura Arjona
 .. slug: interviews-with-floss-developers-laura-arjona
 .. date: 2015-03-20 21:35:36 UTC+02:00
-.. tags: larjona, debian, floss
+.. tags: larjona, debian, floss, interviews
 .. link: 
 .. description: 
 .. type: text

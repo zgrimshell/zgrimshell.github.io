@@ -2,7 +2,7 @@
 .. title: Interviews with FLOSS developers: Francesca Ciceri
 .. slug: interviews-with-floss-developers-francesca-ciceri
 .. date: 2015-03-31 21:20:58 UTC+02:00
-.. tags: zou, debian, floss, geek
+.. tags: zou, debian, floss, geek, interviews
 .. link: 
 .. description: 
 .. type: text
