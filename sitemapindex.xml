@@ -26,6 +26,10 @@
   <lastmod>2015-12-15T14:30:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://zgrimshell.github.io/categories/community.xml</loc>
+  <lastmod>2015-12-19T11:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://zgrimshell.github.io/categories/debconf.xml</loc>
   <lastmod>2015-12-15T14:30:00Z</lastmod>
  </sitemap>
@@ -98,6 +102,10 @@
   <lastmod>2015-12-15T14:30:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://zgrimshell.github.io/categories/jolla.xml</loc>
+  <lastmod>2015-12-19T11:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://zgrimshell.github.io/categories/journey.xml</loc>
   <lastmod>2015-12-15T14:30:00Z</lastmod>
  </sitemap>
@@ -156,6 +164,10 @@
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/news.xml</loc>
   <lastmod>2015-12-15T14:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://zgrimshell.github.io/categories/oss.xml</loc>
+  <lastmod>2015-12-19T11:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/pabs.xml</loc>
@@ -239,10 +251,10 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/rss.xml</loc>
-  <lastmod>2015-12-15T14:34:00Z</lastmod>
+  <lastmod>2015-12-19T11:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/sitemap.xml</loc>
-  <lastmod>2015-12-15T14:34:00Z</lastmod>
+  <lastmod>2015-12-19T11:33:00Z</lastmod>
  </sitemap>
 </sitemapindex>
