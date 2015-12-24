@@ -39,7 +39,11 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/debian.xml</loc>
-  <lastmod>2015-12-15T14:30:00Z</lastmod>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://zgrimshell.github.io/categories/deepin.xml</loc>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/encryption.xml</loc>
@@ -127,7 +131,7 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/linux.xml</loc>
-  <lastmod>2015-12-15T14:34:00Z</lastmod>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/love.xml</loc>
@@ -251,10 +255,10 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/rss.xml</loc>
-  <lastmod>2015-12-19T11:33:00Z</lastmod>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/sitemap.xml</loc>
-  <lastmod>2015-12-19T11:33:00Z</lastmod>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
  </sitemap>
 </sitemapindex>

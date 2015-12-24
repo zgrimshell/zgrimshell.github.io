@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://zgrimshell.github.io/2015/index.html</loc>
-  <lastmod>2015-12-19T11:33:00Z</lastmod>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/archive.html</loc>
@@ -47,7 +47,11 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/debian.html</loc>
-  <lastmod>2015-12-15T14:30:00Z</lastmod>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/categories/deepin.html</loc>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/encryption.html</loc>
@@ -103,7 +107,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/index.html</loc>
-  <lastmod>2015-12-19T11:33:00Z</lastmod>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/interviews.html</loc>
@@ -139,7 +143,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/linux.html</loc>
-  <lastmod>2015-12-15T14:34:00Z</lastmod>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/love.html</loc>
@@ -267,11 +271,15 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index-2.html</loc>
-  <lastmod>2015-12-19T11:33:00Z</lastmod>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/index-3.html</loc>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index.html</loc>
-  <lastmod>2015-12-19T11:33:00Z</lastmod>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/listings/index.html</loc>
@@ -288,6 +296,10 @@
  <url>
   <loc>https://zgrimshell.github.io/posts/debian-priglavci.html</loc>
   <lastmod>2015-12-15T14:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/posts/deepin-switches-to-debian-sid.html</loc>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/hell-just-got-frozen.html</loc>
@@ -387,7 +399,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/what-is-wrong-with-jolla.html</loc>
-  <lastmod>2015-12-19T11:33:00Z</lastmod>
+  <lastmod>2015-12-24T17:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/whats-better-than-bearded-man.html</loc>
