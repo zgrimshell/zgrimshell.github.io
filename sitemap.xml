@@ -11,7 +11,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/2016/index.html</loc>
-  <lastmod>2016-01-01T16:35:00Z</lastmod>
+  <lastmod>2016-01-07T15:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/archive.html</loc>
@@ -34,6 +34,10 @@
   <lastmod>2016-01-01T16:35:00Z</lastmod>
  </url>
  <url>
+  <loc>https://zgrimshell.github.io/categories/christmas.html</loc>
+  <lastmod>2016-01-07T15:13:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://zgrimshell.github.io/categories/code.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
  </url>
@@ -51,7 +55,11 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/debian.html</loc>
-  <lastmod>2016-01-01T16:35:00Z</lastmod>
+  <lastmod>2016-01-07T15:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/categories/dedication.html</loc>
+  <lastmod>2016-01-07T15:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/deepin.html</loc>
@@ -123,7 +131,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/index.html</loc>
-  <lastmod>2016-01-01T16:35:00Z</lastmod>
+  <lastmod>2016-01-07T15:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/interviews.html</loc>
@@ -291,11 +299,11 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index-3.html</loc>
-  <lastmod>2016-01-01T16:35:00Z</lastmod>
+  <lastmod>2016-01-07T15:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index.html</loc>
-  <lastmod>2016-01-01T16:35:00Z</lastmod>
+  <lastmod>2016-01-07T15:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/listings/index.html</loc>
@@ -370,6 +378,10 @@
   <lastmod>2016-01-01T16:35:00Z</lastmod>
  </url>
  <url>
+  <loc>https://zgrimshell.github.io/posts/merry-christmas.html</loc>
+  <lastmod>2016-01-07T15:13:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://zgrimshell.github.io/posts/my-journey-into-debian.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
  </url>
@@ -399,7 +411,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/thank-you-ancenstor.html</loc>
-  <lastmod>2016-01-01T16:35:00Z</lastmod>
+  <lastmod>2016-01-07T15:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/the-big-life-adventure-called-debconf15.html</loc>
