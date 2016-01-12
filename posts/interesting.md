@@ -9,4 +9,4 @@
 .. type: text
 -->
 
-On Distrowatch Debian has more points then Ubuntu and Red Hat combined - coincidence? I don't think so! ;)
+On Distrowatch Debian has more points than Ubuntu and Red Hat combined - coincidence? I don't think so! ;)
