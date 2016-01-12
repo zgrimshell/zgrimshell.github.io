@@ -43,7 +43,7 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/debian.xml</loc>
-  <lastmod>2016-01-07T15:14:00Z</lastmod>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/dedication.xml</loc>
@@ -222,6 +222,10 @@
   <lastmod>2015-12-15T14:30:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://zgrimshell.github.io/categories/red-hat.xml</loc>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://zgrimshell.github.io/categories/scripts.xml</loc>
   <lastmod>2015-12-15T14:30:00Z</lastmod>
  </sitemap>
@@ -244,6 +248,10 @@
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/trip.xml</loc>
   <lastmod>2015-12-15T14:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://zgrimshell.github.io/categories/ubuntu.xml</loc>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/universe.xml</loc>
@@ -275,10 +283,10 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/rss.xml</loc>
-  <lastmod>2016-01-07T15:14:00Z</lastmod>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/sitemap.xml</loc>
-  <lastmod>2016-01-07T15:14:00Z</lastmod>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
  </sitemap>
 </sitemapindex>

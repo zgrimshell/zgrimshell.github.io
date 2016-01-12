@@ -11,7 +11,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/2016/index.html</loc>
-  <lastmod>2016-01-07T15:14:00Z</lastmod>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/archive.html</loc>
@@ -55,7 +55,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/debian.html</loc>
-  <lastmod>2016-01-07T15:14:00Z</lastmod>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/dedication.html</loc>
@@ -131,7 +131,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/index.html</loc>
-  <lastmod>2016-01-07T15:13:00Z</lastmod>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/interviews.html</loc>
@@ -238,6 +238,10 @@
   <lastmod>2016-01-01T16:35:00Z</lastmod>
  </url>
  <url>
+  <loc>https://zgrimshell.github.io/categories/red-hat.html</loc>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://zgrimshell.github.io/categories/scripts.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
  </url>
@@ -260,6 +264,10 @@
  <url>
   <loc>https://zgrimshell.github.io/categories/trip.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/categories/ubuntu.html</loc>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/universe.html</loc>
@@ -299,11 +307,11 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index-3.html</loc>
-  <lastmod>2016-01-07T15:13:00Z</lastmod>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index.html</loc>
-  <lastmod>2016-01-07T15:14:00Z</lastmod>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/listings/index.html</loc>
@@ -340,6 +348,10 @@
  <url>
   <loc>https://zgrimshell.github.io/posts/icelandic-pirate-party.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/posts/interesting.html</loc>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/internet-freedom.html</loc>
@@ -379,7 +391,11 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/merry-christmas.html</loc>
-  <lastmod>2016-01-07T15:14:00Z</lastmod>
+  <lastmod>2016-01-12T02:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/posts/microsoft-3-linux.html</loc>
+  <lastmod>2016-01-09T19:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/my-journey-into-debian.html</loc>
