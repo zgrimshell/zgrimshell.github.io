@@ -186,6 +186,10 @@
   <lastmod>2015-12-15T14:30:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://zgrimshell.github.io/categories/new-year.xml</loc>
+  <lastmod>2016-01-14T01:04:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://zgrimshell.github.io/categories/news.xml</loc>
   <lastmod>2015-12-15T14:34:00Z</lastmod>
  </sitemap>
@@ -283,10 +287,10 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/rss.xml</loc>
-  <lastmod>2016-01-12T13:06:00Z</lastmod>
+  <lastmod>2016-01-14T01:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/sitemap.xml</loc>
-  <lastmod>2016-01-12T13:06:00Z</lastmod>
+  <lastmod>2016-01-14T01:04:00Z</lastmod>
  </sitemap>
 </sitemapindex>
