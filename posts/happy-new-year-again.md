@@ -11,8 +11,8 @@
 
 Yes again, I like it that way. Twice! Anyway, we have here what is called Serbian New Year (it is again, Orthodox by Julian calendar).
 
-So, if you missed or think can do better New Year's resolutions - feel free to join the party (just a notice, besides firework we have a lot of gun fire here during that time. A LOT.).
+So, if you missed or think you can do better New Year's resolutions - feel free to join the party (just a notice, besides firework we have a lot of gun fire here during that time. A LOT.).
 
-Advice for everyones resolution list: be better version of yourself, have more happy days.
+Advice for everyone's resolution list: be better version of yourself, have more happy days.
 
 Cheers. (oh, yes, get more involved in Debian)
