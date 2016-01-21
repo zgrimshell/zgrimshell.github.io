@@ -11,7 +11,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/2016/index.html</loc>
-  <lastmod>2016-01-14T01:08:00Z</lastmod>
+  <lastmod>2016-01-21T10:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/archive.html</loc>
@@ -110,6 +110,10 @@
   <lastmod>2016-01-01T16:35:00Z</lastmod>
  </url>
  <url>
+  <loc>https://zgrimshell.github.io/categories/heidelberg.html</loc>
+  <lastmod>2016-01-21T10:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://zgrimshell.github.io/categories/hell.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
  </url>
@@ -131,7 +135,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/index.html</loc>
-  <lastmod>2016-01-14T01:04:00Z</lastmod>
+  <lastmod>2016-01-21T10:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/interviews.html</loc>
@@ -167,7 +171,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/linux.html</loc>
-  <lastmod>2016-01-01T16:35:00Z</lastmod>
+  <lastmod>2016-01-21T10:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/love.html</loc>
@@ -311,11 +315,11 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index-3.html</loc>
-  <lastmod>2016-01-14T01:04:00Z</lastmod>
+  <lastmod>2016-01-21T10:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index.html</loc>
-  <lastmod>2016-01-14T01:08:00Z</lastmod>
+  <lastmod>2016-01-21T10:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/listings/index.html</loc>
@@ -339,7 +343,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/happy-new-year-again.html</loc>
-  <lastmod>2016-01-14T01:08:00Z</lastmod>
+  <lastmod>2016-01-21T10:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/hell-just-got-frozen.html</loc>
@@ -444,6 +448,10 @@
  <url>
   <loc>https://zgrimshell.github.io/posts/trip-to-debconf14.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/posts/two-short-notes.html</loc>
+  <lastmod>2016-01-21T10:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/useless-web.html</loc>
