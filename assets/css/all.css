@@ -438,14 +438,14 @@ body {
 }
 
 html {
-  font-family: Cantarell, "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Cantarell", "PT Serif", Georgia, "Times New Roman", serif;
   font-weight: 400;
   color: black;
   font-size: 18px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Cantarell, "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: bold;
   color: black;
   letter-spacing: -.025rem;
@@ -508,7 +508,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #505050;
 }
 .masthead-title small {
-  font-size: 75%;
+  font-size: 100%;
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
@@ -551,8 +551,8 @@ div.sidebar,.sidebar {
   padding: 0;
   margin: 0;
   border: none;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: .875rem; /* 15px */
+  font-family: Cantarell,  "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: .999rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
@@ -560,13 +560,13 @@ div.sidebar,.sidebar {
 }
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .75rem; /* 14px */
+    font-size: .99rem; /* 14px */
   }
 }
 
 /* Sidebar content */
 .sidebar a {
-  font-weight: normal;
+  font-weight: bold;
   color: #fff;
 }
 .sidebar-item {
@@ -771,7 +771,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Cantarell, "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
