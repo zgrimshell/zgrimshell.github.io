@@ -8,7 +8,6 @@
 .. type: text
 -->
 
-and even mentions Debian.[Here](https://www.atlassian.com/git/articles/10
--years-of-git/) under info for Git installations skyrocket (January 2010) and
+and even mentions Debian.[Here](https://www.atlassian.com/git/articles/10-years-of-git/) under info for Git installations skyrocket (January 2010) and
 Git installations surpass all other version control systems (January 2011).
 There is also part with git-annex written by our old pal Joey Hess. :)

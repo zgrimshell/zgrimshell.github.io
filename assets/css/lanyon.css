@@ -41,13 +41,16 @@ body {
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: Cantarell, "PT Serif", Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  color: black;
+  font-size: 18px;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  color: #313131;
+  font-weight: bold;
+  color: black;
   letter-spacing: -.025rem;
 }
 
@@ -449,12 +452,12 @@ a.pagination-item:hover {
 .theme-base-08 .sidebar-toggle:active,
 .theme-base-08 #sidebar-checkbox:focus ~ .sidebar-toggle,
 .theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #ac4142;
+  background-color: black;
 }
 .theme-base-08 .container a,
 .theme-base-08 .sidebar-toggle,
 .theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
+  color: black;
 }
 .theme-base-08 .sidebar-toggle:before {
   background-image: -webkit-linear-gradient(to bottom, #ac4142, #ac4142 20%, #fff 20%, #fff 40%, #ac4142 40%, #ac4142 60%, #fff 60%, #fff 80%, #ac4142 80%, #ac4142 100%);
