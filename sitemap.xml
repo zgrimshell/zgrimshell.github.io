@@ -11,7 +11,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/2016/index.html</loc>
-  <lastmod>2016-02-14T18:31:00Z</lastmod>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/archive.html</loc>
@@ -55,7 +55,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/debian.html</loc>
-  <lastmod>2016-02-18T19:05:00Z</lastmod>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/dedication.html</loc>
@@ -79,7 +79,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/floss.html</loc>
-  <lastmod>2016-01-01T16:35:00Z</lastmod>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/founder.html</loc>
@@ -143,7 +143,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/index.html</loc>
-  <lastmod>2016-01-21T13:51:00Z</lastmod>
+  <lastmod>2016-05-20T14:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/interviews.html</loc>
@@ -250,6 +250,10 @@
   <lastmod>2016-01-01T16:35:00Z</lastmod>
  </url>
  <url>
+  <loc>https://zgrimshell.github.io/categories/purism.html</loc>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://zgrimshell.github.io/categories/python.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
  </url>
@@ -268,6 +272,10 @@
  <url>
   <loc>https://zgrimshell.github.io/categories/systemd.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/categories/tablet.html</loc>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/theoatmeal.html</loc>
@@ -323,15 +331,19 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index-3.html</loc>
-  <lastmod>2016-02-18T19:05:00Z</lastmod>
+  <lastmod>2016-05-20T14:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index.html</loc>
-  <lastmod>2016-01-21T13:51:00Z</lastmod>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/listings/index.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/posts/4-months-of-work-turned-into-gnome-debian-testing-based-tablet.html</loc>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/atlassian-honors-10-years-of-git.html</loc>
@@ -351,7 +363,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/fsf-has-also-fund-raising-campaign.html</loc>
-  <lastmod>2016-01-21T13:51:00Z</lastmod>
+  <lastmod>2016-05-20T14:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/happy-new-year-again.html</loc>

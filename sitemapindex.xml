@@ -43,7 +43,7 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/debian.xml</loc>
-  <lastmod>2016-02-18T19:05:00Z</lastmod>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/dedication.xml</loc>
@@ -67,7 +67,7 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/floss.xml</loc>
-  <lastmod>2015-12-15T14:30:00Z</lastmod>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/founder.xml</loc>
@@ -234,6 +234,10 @@
   <lastmod>2015-12-15T14:30:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://zgrimshell.github.io/categories/purism.xml</loc>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://zgrimshell.github.io/categories/python.xml</loc>
   <lastmod>2015-12-15T14:30:00Z</lastmod>
  </sitemap>
@@ -252,6 +256,10 @@
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/systemd.xml</loc>
   <lastmod>2015-12-15T14:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://zgrimshell.github.io/categories/tablet.xml</loc>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/theoatmeal.xml</loc>
@@ -299,10 +307,10 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/rss.xml</loc>
-  <lastmod>2016-01-21T13:51:00Z</lastmod>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/sitemap.xml</loc>
-  <lastmod>2016-02-18T19:05:00Z</lastmod>
+  <lastmod>2016-05-20T14:24:00Z</lastmod>
  </sitemap>
 </sitemapindex>
