@@ -11,7 +11,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/2016/index.html</loc>
-  <lastmod>2016-05-20T14:24:00Z</lastmod>
+  <lastmod>2016-08-18T02:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/archive.html</loc>
@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/debconf.html</loc>
-  <lastmod>2016-01-01T16:35:00Z</lastmod>
+  <lastmod>2016-08-18T02:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/debconf15.html</loc>
@@ -55,7 +55,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/debian.html</loc>
-  <lastmod>2016-05-20T14:24:00Z</lastmod>
+  <lastmod>2016-08-18T02:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/dedication.html</loc>
@@ -183,7 +183,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/love.html</loc>
-  <lastmod>2016-01-01T16:35:00Z</lastmod>
+  <lastmod>2016-08-18T02:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/lwn.html</loc>
@@ -331,11 +331,11 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index-3.html</loc>
-  <lastmod>2016-05-20T14:18:00Z</lastmod>
+  <lastmod>2016-08-18T02:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index.html</loc>
-  <lastmod>2016-05-20T14:24:00Z</lastmod>
+  <lastmod>2016-08-18T02:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/listings/index.html</loc>
@@ -343,7 +343,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/4-months-of-work-turned-into-gnome-debian-testing-based-tablet.html</loc>
-  <lastmod>2016-05-20T14:24:00Z</lastmod>
+  <lastmod>2016-08-18T02:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/atlassian-honors-10-years-of-git.html</loc>
@@ -352,6 +352,10 @@
  <url>
   <loc>https://zgrimshell.github.io/posts/day.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/posts/debconf16-new-age-in-debian-community-gathering.html</loc>
+  <lastmod>2016-08-18T02:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/debian-priglavci.html</loc>
