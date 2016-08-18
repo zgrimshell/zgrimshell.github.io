@@ -1,7 +1,7 @@
 <!-- 
 .. title: DebConf16 - new age in Debian community gathering
 .. slug: debconf16-new-age-in-debian-community-gathering
-.. date: 2016-07-15 17:19:07 UTC+02:00
+.. date: 2016-08-18 11:19:07 UTC+02:00
 .. tags: debian, debconf, love 
 .. category: 
 .. link: 
