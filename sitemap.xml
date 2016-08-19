@@ -11,7 +11,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/2016/index.html</loc>
-  <lastmod>2016-08-18T11:40:00Z</lastmod>
+  <lastmod>2016-08-19T01:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/archive.html</loc>
@@ -64,6 +64,10 @@
  <url>
   <loc>https://zgrimshell.github.io/categories/deepin.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/categories/defcon.html</loc>
+  <lastmod>2016-08-19T01:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/encryption.html</loc>
@@ -143,7 +147,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/index.html</loc>
-  <lastmod>2016-05-20T14:18:00Z</lastmod>
+  <lastmod>2016-08-19T01:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/categories/interviews.html</loc>
@@ -331,11 +335,11 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index-3.html</loc>
-  <lastmod>2016-08-18T02:36:00Z</lastmod>
+  <lastmod>2016-08-19T01:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/index.html</loc>
-  <lastmod>2016-08-18T11:40:00Z</lastmod>
+  <lastmod>2016-08-19T01:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/listings/index.html</loc>
@@ -355,7 +359,7 @@
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/debconf16-new-age-in-debian-community-gathering.html</loc>
-  <lastmod>2016-08-18T11:40:00Z</lastmod>
+  <lastmod>2016-08-19T01:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/debian-priglavci.html</loc>
@@ -364,6 +368,10 @@
  <url>
   <loc>https://zgrimshell.github.io/posts/deepin-switches-to-debian-sid.html</loc>
   <lastmod>2016-01-01T16:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zgrimshell.github.io/posts/defcon24.html</loc>
+  <lastmod>2016-08-19T01:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://zgrimshell.github.io/posts/fsf-has-also-fund-raising-campaign.html</loc>
