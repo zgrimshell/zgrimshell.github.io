@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-While I was bored on Defcon, I took the smallest VPS in DO offering (512MB RAM, 20GB disk), configured nginxon it, bought domain zlatan.tech and cp'ed my blog data to blog.zlatan.tech. I thought it will just be out of boredom and tear it apart in a day or two but it is still there.
+While I was bored on Defcon, I took the smallest VPS in DO offering (512MB RAM, 20GB disk), configured nginx on it, bought domain zlatan.tech and cp'ed my blog data to blog.zlatan.tech. I thought it will just be out of boredom and tear it apart in a day or two but it is still there.
 
 Not only that, the droplet came with Debian 8.5 but I just added unstable and experimental to it and upgraded. Just to experiment and see what time will I need to break it. To make it even more adventurous (and also force me to not take it too much serious, at least at this point) I did something on what Lars would scream - I did not enable backups!
 
