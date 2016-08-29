@@ -9,4 +9,4 @@
 .. type: text
 -->
 
-There is an ongoing [campaign](https://www.indiegogo.com/projects/pepper-and-carrot-motion-comic#/) for motion comic. It will be done entirely with FLOSS tools (Blender, Krita, GNU/Linux) and besides it that, it really looks great (and no, it is not only for the kids!). Please support this effort if you can because it also shows the power of Free software tools. All will be released Creative Commons Atribution-ShareAlike license together with all sources.
+There is an ongoing [campaign](https://www.indiegogo.com/projects/pepper-and-carrot-motion-comic#/) for motion comic. It will be done entirely with FLOSS tools (Blender, Krita, GNU/Linux) and besides that, it really looks great (and no, it is not only for the kids!). Please support this effort if you can because it also shows the power of Free software tools. All will be released Creative Commons Atribution-ShareAlike license together with all sources.
