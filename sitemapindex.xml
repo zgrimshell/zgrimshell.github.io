@@ -39,7 +39,7 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/comic.xml</loc>
-  <lastmod>2016-08-29T14:03:00Z</lastmod>
+  <lastmod>2016-09-22T12:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/community.xml</loc>
@@ -72,6 +72,10 @@
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/encryption.xml</loc>
   <lastmod>2015-12-15T14:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://zgrimshell.github.io/categories/ethic-cinema.xml</loc>
+  <lastmod>2016-09-22T12:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/family.xml</loc>
@@ -235,7 +239,7 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/open-source.xml</loc>
-  <lastmod>2016-08-29T14:03:00Z</lastmod>
+  <lastmod>2016-09-22T12:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/categories/oss.xml</loc>
@@ -347,10 +351,10 @@
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/rss.xml</loc>
-  <lastmod>2016-08-29T14:03:00Z</lastmod>
+  <lastmod>2016-09-22T12:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://zgrimshell.github.io/sitemap.xml</loc>
-  <lastmod>2016-08-29T14:03:00Z</lastmod>
+  <lastmod>2016-09-22T12:05:00Z</lastmod>
  </sitemap>
 </sitemapindex>
