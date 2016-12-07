@@ -94,8 +94,7 @@ outright, but more, it makes you start noticing this kind of pervasive issue,
 and it provides ways to completely eliminate a class of problems from your
 code.
 
-For example <http://joeyh.name/blog/entry/making_propellor_safer_with_GADTs_an
-d_type_families/>. The class of bugs I avoided there had never affected my
+For example <http://joeyh.name/blog/entry/making_propellor_safer_with_GADTs_and_type_families/>. The class of bugs I avoided there had never affected my
 code even once, but it was still worth preventing that whole class of bugs, so
 I don't have to worry about them ever again.
 
